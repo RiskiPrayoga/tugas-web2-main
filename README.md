@@ -1,16 +1,16 @@
 # Overview
 
-Berikut ini adalah ringkasan dari Starter Template yang telah saya buat untuk mengembangkan dasar pengetahuan saya dalam penggunaan Laravel dan TailwindCSS.
+untuk memenuhi tugas
 
 ## About Tugas
 
 1. Example Results
 
-![Results](./public/img/example-template.png)
+gambar menyusul
 
 ## Author
 
--   [Ghifar Rito]()
+-   [riski prayoga]()
 
 ## License
 
